@@ -28,7 +28,7 @@
 
 ## Interests
 
-- **Self-Hosting:** Vaultwarden, Uptime Kuma, AList
+- **Self-Hosting:** Vaultwarden, OpenList
 - **Gaming:** Slay the Spire, Muse Dash
 - **Anime:** パパのいうことを聞きなさい!, ハッピーシュガーライフ, Another
 
