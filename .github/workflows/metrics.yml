@@ -1,0 +1,33 @@
+name: Metrics
+on:
+  # 每天凌晨 0 点自动运行一次更新数据
+  schedule: [{cron: "0 0 * * *"}]
+  # 允许你在 Actions 页面手动点击运行
+  workflow_dispatch:
+  # 每次你修改主分支代码时也会触发
+  push: {branches: ["master", "main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # 绑定你刚才设置的密钥
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # 基础信息
+          base: header, activity, community, repositories, metadata
+          
+          # 开启语言比例插件
+          plugin_languages: yes
+          plugin_languages_ignored: html, css
+          plugin_languages_details: bytes-size, percentage
+          
+          # 开启 3D 日历插件 (Contributions calendar)
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          
+          # 开启 Star 趋势图插件 (Stargazers)
+          plugin_stargazers: yes
