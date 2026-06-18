@@ -1,17 +1,20 @@
-## Hi there 👋
+## Hi, I'm miuo
 
-- 🌌 May dreams come true.
-- ⚡ Tinkering with Linux ecosystems, core frameworks, and automation.
+*Crafting clean infrastructure and digital spaces.*
+
+- **Philosophy:** "Less is more" — aiming for clean code and minimalist setups.
+- **Tinkering:** Server administration, self-hosted services, and static site generation.
+- **Hub:** Building my digital garden at [miuo.me](https://miuo.me).
 
 ## Blog & Dotfiles
 
-![Blog](https://img.shields.io/badge/Blog-Astro_Iris-FF5D01?style=flat-square&logo=astro&logoColor=white) ![Dotfiles](https://img.shields.io/badge/Dotfiles-Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)
+![Blog](https://img.shields.io/badge/Blog-miuo.me-FF5D01?style=flat-square&logo=astro&logoColor=white) ![Dotfiles](https://img.shields.io/badge/Dotfiles-Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)
 
 ## Languages & Frameworks
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,python,css,ts,astro,go" alt="Languages & Frameworks" />
+    <img src="https://skillicons.dev/icons?i=python,ts,js,astro,go,lua,bash,markdown,postgres,css&theme=dark" alt="Languages & Frameworks" />
   </a>
 </p>
 
@@ -19,19 +22,20 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arch,debian,windows,docker,vscode" alt="Platforms & Tools" />
+    <img src="https://skillicons.dev/icons?i=arch,debian,windows,docker,nginx,cloudflare,vscode&theme=dark" alt="Platforms & Tools" />
   </a>
 </p>
 
 ## Interests
 
-- 🎮 **Gaming:** Slay the Spire, Muse Dash
-- 🌌 **Anime:** パパのいうことを聞きなさい!, ハッピーシュガーライフ, Another
+- **Self-Hosting:** Vaultwarden, Uptime Kuma, AList
+- **Gaming:** Slay the Spire, Muse Dash
+- **Anime:** パパのいうことを聞きなさい!, ハッピーシュガーライフ, Another
 
 <details>
-  <summary>▼ More details...</summary>
-
-  ### GitHub Metrics
+  <summary>More details...</summary>
+  
+  <br>
 
   <p align="center">
     <img src="github-metrics.svg" alt="miuo's GitHub metrics" onerror="this.style.display='none'"/>
