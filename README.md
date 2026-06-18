@@ -34,7 +34,7 @@
   ### GitHub Metrics
 
   <p align="center">
-    <img src="https://raw.githubusercontent.com/mistmu/mistmu/main/github-metrics.svg" alt="miuo's GitHub metrics" onerror="this.style.display='none'"/>
+    <img src="github-metrics.svg" alt="miuo's GitHub metrics" onerror="this.style.display='none'"/>
   </p>
 
 </details>
