@@ -44,8 +44,8 @@
 ## Interests
 
 - **Self-Hosting:** Vaultwarden, OpenList
-- **Gaming:** Slay the Spire, Muse Dash
-- **Anime:** パパのいうことを聞きなさい!, ハッピーシュガーライフ, Another
+- **Gaming:** Muse Dash,Stellaris
+- **Anime:** パパのいうことを聞きなさい!, ハッピーシュガーライフ, デート・ア・ライブ，Another
 
 <details>
   <summary>More details...</summary>
