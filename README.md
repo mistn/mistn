@@ -29,11 +29,12 @@
 - 🌌 **Anime:** パパのいうことを聞きなさい!, ハッピーシュガーライフ, Another
 
 <details>
-<summary>More details...</summary>
+  <summary>▼ More details...</summary>
 
-### GitHub Metrics
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mistmu/mistmu/main/github-metrics.svg" alt="miuo's github metrics" onerror="this.style.display='none'"/>
-</p>
+  ### GitHub Metrics
+
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/mistmu/mistmu/main/github-metrics.svg" alt="miuo's GitHub metrics" onerror="this.style.display='none'"/>
+  </p>
 
 </details>
