@@ -22,7 +22,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arch,debian,windows,docker,nginx,cloudflare,vscode&theme=dark" alt="Platforms & Tools" />
+    <img src="https://skillicons.dev/icons?i=arch,debian,windows,docker,nginx,cloudflare,vscode,latex&theme=dark" alt="Platforms & Tools" />
   </a>
 </p>
 
