@@ -1,36 +1,39 @@
-### `whoami`
-miuo. 
-A builder, tinkerer, and infrastructure enthusiast.
+## Hi there 👋
 
-> "Simplicity is the ultimate sophistication."
+- 🌌 May dreams come true.
+- ⚡ Tinkering with Linux ecosystems, core frameworks, and automation.
 
----
+## Blog & Dotfiles
 
-### `stack`
+![Blog](https://img.shields.io/badge/Blog-Astro_Iris-FF5D01?style=flat-square&logo=astro&logoColor=white) ![Dotfiles](https://img.shields.io/badge/Dotfiles-Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)
 
-**Frontend & Frameworks**
-![Astro](https://img.shields.io/badge/Astro-000000?style=flat-square&logo=astro&logoColor=white) ![Valaxy](https://img.shields.io/badge/Valaxy-000000?style=flat-square&logo=vue.js&logoColor=white)
+## Languages & Frameworks
 
-**Backend & DevOps**
-![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white) ![OpenResty](https://img.shields.io/badge/OpenResty-000000?style=flat-square&logo=nginx&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-000000?style=flat-square&logo=cloudflare&logoColor=white) ![Arch Linux](https://img.shields.io/badge/Arch_Linux-000000?style=flat-square&logo=archlinux&logoColor=white)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,python,css,ts,astro,go" alt="Languages & Frameworks" />
+  </a>
+</p>
 
-**Self-Hosted Ecosystem**
-`Vaultwarden` `AList` `Umami` `Kavita` `Uptime Kuma`
+## Platforms & Support Tools
 
----
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arch,debian,windows,docker,vscode" alt="Platforms & Tools" />
+  </a>
+</p>
 
-### `status`
+## Interests
 
-- 🔭 **Building:** Optimizing my digital garden at [miuo.me](https://miuo.me)
-- 🌱 **Exploring:** Serverless architecture, CI/CD pipelines, and Knowledge Management (Obsidian + FSRS)
-- 🎮 **Unwinding:** Slay the Spire, Muse Dash, and parsing Japanese lyrics
-- 🌌 **Interests:** 《来自深渊》, 《电锯人》
+- 🎮 **Gaming:** Slay the Spire, Muse Dash
+- 🌌 **Anime:** パパのいうことを聞きなさい!, ハッピーシュガーライフ, Another
 
----
+<details>
+<summary>More details...</summary>
 
-### `metrics`
+### GitHub Metrics
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mistmu/mistmu/main/github-metrics.svg" alt="miuo's github metrics" onerror="this.style.display='none'"/>
+</p>
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mistmu&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=888888&icon_color=ffffff&rank_icon=github" alt="miuo's Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mistmu&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=888888" alt="Top Langs" height="150"/>
-</div>
+</details>
