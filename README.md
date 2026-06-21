@@ -7,7 +7,7 @@
 
 ## Blog & Dotfiles
 
-[![Blog](https://img.shields.io/badge/Blog-miuo.me-FF5D01?style=flat-square&logo=astro&logoColor=white)](https://miuo.me) 
+[![Blog](https://img.shields.io/badge/Blog-miuo.me-FF5D01?style=flat-square&logo=astro&logoColor=white)](https://miuo.me)
 [![Dotfiles](https://img.shields.io/badge/Dotfiles-Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)](https://archlinux.org/)
 
 ## Languages & Frameworks
@@ -35,6 +35,7 @@
   <a href="https://ubuntu.com/"><img src="https://skillicons.dev/icons?i=ubuntu&theme=dark" alt="Ubuntu" /></a>
   <a href="https://www.microsoft.com/windows/"><img src="https://skillicons.dev/icons?i=windows&theme=dark" alt="Windows" /></a>
   <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" /></a>
+  <a href="https://redis.io/"><img src="https://skillicons.dev/icons?i=redis&theme=dark" alt="Redis" /></a>
   <a href="https://nginx.org/"><img src="https://skillicons.dev/icons?i=nginx&theme=dark" alt="Nginx" /></a>
   <a href="https://www.cloudflare.com/"><img src="https://skillicons.dev/icons?i=cloudflare&theme=dark" alt="Cloudflare" /></a>
   <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VSCode" /></a>
@@ -44,8 +45,8 @@
 ## Interests
 
 - **Self-Hosting:** Vaultwarden, OpenList
-- **Gaming:** Muse Dash,Stellaris
-- **Anime:** パパのいうことを聞きなさい!, ハッピーシュガーライフ, デート・ア・ライブ，Another
+- **Gaming:** Muse Dash, Stellaris
+- **Anime:** パパのいうことを聞きなさい!, ハッピーシュガーライフ, デート・ア・ライブ, Another
 
 <details>
   <summary>More details...</summary>
