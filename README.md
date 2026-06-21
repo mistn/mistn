@@ -17,11 +17,11 @@
   <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" /></a>
   <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" /></a>
+  <a href="https://vuejs.org/"><img src="https://skillicons.dev/icons?i=vue&theme=dark" alt="Vue" /></a>
   <a href="https://astro.build/"><img src="https://skillicons.dev/icons?i=astro&theme=dark" alt="Astro" /></a>
   <a href="https://go.dev/"><img src="https://skillicons.dev/icons?i=go&theme=dark" alt="Go" /></a>
   <a href="https://www.lua.org/"><img src="https://skillicons.dev/icons?i=lua&theme=dark" alt="Lua" /></a>
   <a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash&theme=dark" alt="Bash" /></a>
-  <a href="https://daringfireball.net/projects/markdown/"><img src="https://skillicons.dev/icons?i=markdown&theme=dark" alt="Markdown" /></a>
   <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL" /></a>
   <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="Tailwind CSS" /></a>
 </p>
@@ -33,12 +33,11 @@
   <a href="https://www.debian.org/"><img src="https://skillicons.dev/icons?i=debian&theme=dark" alt="Debian" /></a>
   <a href="https://alpinelinux.org/"><img src="https://cdn.simpleicons.org/alpinelinux/0D597F" height="48" alt="Alpine Linux" /></a>
   <a href="https://ubuntu.com/"><img src="https://skillicons.dev/icons?i=ubuntu&theme=dark" alt="Ubuntu" /></a>
-  <a href="https://www.microsoft.com/windows/"><img src="https://skillicons.dev/icons?i=windows&theme=dark" alt="Windows" /></a>
   <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" /></a>
   <a href="https://redis.io/"><img src="https://skillicons.dev/icons?i=redis&theme=dark" alt="Redis" /></a>
   <a href="https://nginx.org/"><img src="https://skillicons.dev/icons?i=nginx&theme=dark" alt="Nginx" /></a>
   <a href="https://www.cloudflare.com/"><img src="https://skillicons.dev/icons?i=cloudflare&theme=dark" alt="Cloudflare" /></a>
-  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VSCode" /></a>
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" /></a>
   <a href="https://www.latex-project.org/"><img src="https://skillicons.dev/icons?i=latex&theme=dark" alt="LaTeX" /></a>
 </p>
 
