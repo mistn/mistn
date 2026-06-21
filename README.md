@@ -7,7 +7,7 @@
 
 ## Blog & Dotfiles
 
-[![Blog](https://img.shields.io/badge/Blog-miuo.me-FF5D01?style=flat-square&logo=astro&logoColor=white)](https://blog.miuo.me)
+[![Blog](https://img.shields.io/badge/Blog-blog.miuo.me-FF5D01?style=flat-square&logo=astro&logoColor=white)](https://blog.miuo.me)
 [![Dotfiles](https://img.shields.io/badge/Dotfiles-Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)](https://archlinux.org/)
 
 ## Languages & Frameworks
