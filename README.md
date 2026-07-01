@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="MIUO.svg" width="320" alt="MIUO Logo" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="MIUO-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="MIUO.svg">
+    <img alt="MIUO Logo" src="MIUO.svg" width="320">
+  </picture>
   <br>
   <br>
   <font size="6"><strong>Hi, I'm miuo</strong></font>
