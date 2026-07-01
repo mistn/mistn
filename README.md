@@ -13,7 +13,7 @@
 
 ---
 
-### 🔮 关于我 / About Me
+### About Me
 
 - **Philosophy:** "Less is more" — aiming for clean code and minimalist setups.
 - **Tinkering:** Server administration, self-hosted services, and static site generation.
