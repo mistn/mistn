@@ -1,14 +1,22 @@
-## Hi, I'm miuo
+<p align="center">
+  <img src="MIUO.svg" width="320" alt="MIUO Logo" />
+  <br>
+  <br>
+  <font size="6"><strong>Hi, I'm miuo</strong></font>
+  <br>
+  <em>Crafting clean infrastructure and digital spaces.</em>
+  <br>
+  <br>
+  <a href="https://blog.miuo.me"><img src="https://img.shields.io/badge/Blog-blog.miuo.me-FF5D01?style=flat-square&logo=astro&logoColor=white" alt="Blog" /></a>
+  <a href="https://archlinux.org/"><img src="https://img.shields.io/badge/Dotfiles-Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white" alt="Dotfiles" /></a>
+</p>
 
-*Crafting clean infrastructure and digital spaces.*
+---
+
+### 🔮 关于我 / About Me
 
 - **Philosophy:** "Less is more" — aiming for clean code and minimalist setups.
 - **Tinkering:** Server administration, self-hosted services, and static site generation.
-
-## Blog & Dotfiles
-
-[![Blog](https://img.shields.io/badge/Blog-blog.miuo.me-FF5D01?style=flat-square&logo=astro&logoColor=white)](https://blog.miuo.me)
-[![Dotfiles](https://img.shields.io/badge/Dotfiles-Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)](https://archlinux.org/)
 
 ## Languages & Frameworks
 
