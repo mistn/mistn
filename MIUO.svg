@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="220" viewBox="0 0 360 220">
+  <defs>
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="rgba(70,156,229,0)"/>
+      <stop offset="25%" stop-color="rgba(70,156,229,0.8)"/>
+      <stop offset="50%" stop-color="#469ce5"/>
+      <stop offset="75%" stop-color="rgba(70,156,229,0.8)"/>
+      <stop offset="100%" stop-color="rgba(70,156,229,0)"/>
+    </linearGradient>
+    <linearGradient id="uoGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#469ce5"/>
+      <stop offset="100%" stop-color="#2d7bc0"/>
+    </linearGradient>
+  </defs>
+  <!-- Top accent line -->
+  <line x1="30" y1="55" x2="330" y2="55" stroke="url(#lineGrad)" stroke-width="1.5"/>
+  <!-- MI - white with dark outline for any background -->
+  <text x="128" y="125" text-anchor="middle" font-family="'Arial Black', Impact, Arial, sans-serif" font-weight="900" font-size="90" fill="#ffffff" stroke="#0d1b2a" stroke-width="3" letter-spacing="4">MI</text>
+  <!-- UO - blue gradient -->
+  <text x="240" y="125" text-anchor="middle" font-family="'Arial Black', Impact, Arial, sans-serif" font-weight="900" font-size="90" fill="url(#uoGrad)" stroke="#0d1b2a" stroke-width="3" letter-spacing="4">UO</text>
+  <!-- Diamond accent between MI and UO -->
+  <rect x="177" y="48" width="8" height="8" fill="#469ce5" stroke="#0d1b2a" stroke-width="2.5" transform="rotate(45 181 52)"/>
+  <!-- Bottom accent line -->
+  <line x1="30" y1="168" x2="330" y2="168" stroke="url(#lineGrad)" stroke-width="1.5"/>
+  <!-- Subtitle text -->
+  <text x="180" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-weight="300" font-size="11" fill="rgba(255,255,255,0.35)" letter-spacing="8">PERSONAL SPACE</text>
+</svg>
