@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="MIUO-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="MIUO.svg">
-    <img alt="MIUO Logo" src="MIUO.svg" width="320">
+    <source media="(prefers-color-scheme: dark)" srcset="MIUO.svg">
+    <source media="(prefers-color-scheme: light)" srcset="MIUO-dark.svg">
+    <img alt="MIUO Logo" src="MIUO-dark.svg" width="320">
   </picture>
   <br>
   <br>
