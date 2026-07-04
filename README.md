@@ -51,6 +51,7 @@
   <a href="https://www.cloudflare.com/"><img src="https://skillicons.dev/icons?i=cloudflare&theme=dark" alt="Cloudflare" /></a>
   <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" /></a>
   <a href="https://www.latex-project.org/"><img src="https://skillicons.dev/icons?i=latex&theme=dark" alt="LaTeX" /></a>
+  <a href="https://neovim.io/"><img src="https://skillicons.dev/icons?i=neovim&theme=dark" alt="Neovim" /></a>
 </p>
 
 ## Interests
@@ -67,5 +68,4 @@
   <p align="center">
     <img src="github-metrics.svg" alt="miuo's GitHub metrics" onerror="this.style.display='none'"/>
   </p>
-
 </details>
