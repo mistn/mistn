@@ -63,5 +63,5 @@
 ---
 
 <p align="center">
-  <img src="https://count.getloli.com/@miuo?name=miuo&theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Moe Counter" />
+  <img src="https://count.getloli.com/@mistn?name=mistn&theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Moe Counter" />
 </p>
