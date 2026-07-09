@@ -69,3 +69,9 @@
     <img src="github-metrics.svg" alt="miuo's GitHub metrics" onerror="this.style.display='none'"/>
   </p>
 </details>
+
+---
+
+<p align="center">
+  <img src="https://count.getloli.com/@mistn?name=mistn&theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Moe Counter" />
+</p>
