@@ -1,19 +1,9 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="MIUO.svg">
-    <source media="(prefers-color-scheme: light)" srcset="MIUO-dark.svg">
-    <img alt="MIUO Logo" src="MIUO-dark.svg" width="320">
-  </picture>
-  <br>
-  <br>
-  <font size="6"><strong>Hi, I'm miuo</strong></font>
-  <br>
-  <em>Crafting clean infrastructure and digital spaces.</em>
-  <br>
-  <br>
-  <a href="https://miuo.me"><img src="https://img.shields.io/badge/Blog-miuo.me-FF5D01?style=flat-square&logo=astro&logoColor=white" alt="Blog" /></a>
-  <a href="https://archlinux.org/"><img src="https://img.shields.io/badge/Dotfiles-Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white" alt="Dotfiles" /></a>
-</p>
+# Hi, I'm miuo
+
+*Crafting clean infrastructure and digital spaces.*
+
+<a href="https://miuo.me"><img src="https://img.shields.io/badge/Blog-miuo.me-FF5D01?style=flat-square&logo=astro&logoColor=white" alt="Blog" /></a>
+<a href="https://archlinux.org/"><img src="https://img.shields.io/badge/Dotfiles-Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white" alt="Dotfiles" /></a>
 
 ---
 
@@ -73,5 +63,5 @@
 ---
 
 <p align="center">
-  <img src="https://count.getloli.com/@mistn?name=mistn&theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Moe Counter" />
+  <img src="https://count.getloli.com/@miuo?name=miuo&theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Moe Counter" />
 </p>
