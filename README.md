@@ -1,6 +1,6 @@
-# Hi, I'm miuchan
+# Hi, I'm miuarc
 
-<a href="https://miuchan.com"><img src="https://img.shields.io/badge/Blog-miuchan.com-FF5D01?style=flat-square&logo=astro&logoColor=white" alt="Blog" /></a>
+<a href="https://miuarc.com"><img src="https://img.shields.io/badge/Blog-miuarc.com-FF5D01?style=flat-square&logo=astro&logoColor=white" alt="Blog" /></a>
 <a href="https://archlinux.org/"><img src="https://img.shields.io/badge/Dotfiles-Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white" alt="Dotfiles" /></a>
 
 ---
@@ -54,7 +54,7 @@
   <br>
 
   <p align="center">
-    <img src="github-metrics.svg" alt="miuchan's GitHub metrics" onerror="this.style.display='none'"/>
+    <img src="github-metrics.svg" alt="miuarc's GitHub metrics" onerror="this.style.display='none'"/>
   </p>
 </details>
 
