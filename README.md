@@ -1,14 +1,11 @@
 # Hi, I'm miuarc
 
-<a href="https://miuarc.com"><img src="https://img.shields.io/badge/Blog-miuarc.com-FF5D01?style=flat-square&logo=astro&logoColor=white" alt="Blog" /></a>
-<a href="https://archlinux.org/"><img src="https://img.shields.io/badge/Dotfiles-Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white" alt="Dotfiles" /></a>
+<a href="https://miuarc.com"><img src="https://img.shields.io/badge/Blog-miuarc.com-1793D1?style=flat-square&logo=astro&logoColor=white" alt="Blog" /></a>
+<a href="https://www.debian.org/"><img src="https://img.shields.io/badge/Dotfiles-Debian-A80030?style=flat-square&logo=debian&logoColor=white" alt="Dotfiles" /></a>
 
 ---
 
-### About Me
 
-- **Philosophy:** "Less is more" — aiming for clean code and minimalist setups.
-- **Tinkering:** Server administration, self-hosted services, and static site generation.
 
 ## Languages & Frameworks
 
@@ -44,8 +41,7 @@
 
 ## Interests
 
-- **Self-Hosting:** Vaultwarden, OpenList
-- **Gaming:** Muse Dash, Stellaris
+- **Gaming:** Mahjong Soul, Stellaris
 - **Anime:** パパのいうことを聞きなさい!, ハッピーシュガーライフ, デート・ア・ライブ, Another
 
 <details>
