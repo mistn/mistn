@@ -1,4 +1,3 @@
-![](./binchotan.png)
 # Hi, I'm miuarc
 
 <a href="https://miuarc.com"><img src="https://img.shields.io/badge/Blog-miuarc.com-1793D1?style=flat-square&logo=astro&logoColor=white" alt="Blog" /></a>
